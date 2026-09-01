@@ -1,0 +1,487 @@
+{
+  "schema_version": 1,
+  "scanned_at": "2026-09-01T16:39:35+00:00",
+  "sources": {
+    "google_play_developer": "https://play.google.com/store/apps/dev?id=8923575656207320763&hl=en&gl=us",
+    "app_store_developer": "https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203",
+    "github_api": "https://api.github.com/users/Lapnito/repos?per_page=100"
+  },
+  "counts": {
+    "play_packages": 23,
+    "app_store_ids": 31,
+    "github_repos": 33,
+    "local_projects": 3
+  },
+  "play_packages": [
+    "com.lapnito.qr_reader",
+    "com.mimiapp.mimilog",
+    "com.tomas.barcodewake_alarm",
+    "com.tomas.birthday_countdown",
+    "com.tomas.bubble_level_inclinometer",
+    "com.tomas.chess_clock",
+    "com.tomas.color_picker",
+    "com.tomas.document_scanner_pdf",
+    "com.tomas.dog_whistle_trainer_pro",
+    "com.tomas.echoforge_voice_changer",
+    "com.tomas.fuelfare",
+    "com.tomas.hyponavi_mortgage_planner",
+    "com.tomas.laundry_symbols",
+    "com.tomas.lumenleaf_grow_light",
+    "com.tomas.music_player",
+    "com.tomas.northpin_compass",
+    "com.tomas.onetap_light",
+    "com.tomas.percentsnap",
+    "com.tomas.true_ring_size",
+    "cz.lapnito.metalhunt",
+    "cz.lapnito.moon",
+    "cz.lapnito.noiseledger",
+    "cz.lapnito.sightcheck"
+  ],
+  "app_store_ids": [
+    "1577358577",
+    "6450358923",
+    "6450401003",
+    "6757708053",
+    "6759046751",
+    "6759371237",
+    "6759560694",
+    "6760186006",
+    "6760909926",
+    "6761431309",
+    "6761810177",
+    "6762612529",
+    "6764029942",
+    "6764334539",
+    "6766087893",
+    "6766446046",
+    "6771374329",
+    "6773449983",
+    "6775047555",
+    "6778815802",
+    "6784143421",
+    "6786195052",
+    "6791304634",
+    "6791877480",
+    "6792821792",
+    "6793288615",
+    "6795441595",
+    "6795573101",
+    "6797949885",
+    "6798546218",
+    "6800726544"
+  ],
+  "recommendation": {
+    "key": "com.mimiapp.mimilog",
+    "project": null,
+    "play_listed": true,
+    "github_repo": {
+      "name": "mimilog",
+      "url": "https://github.com/Lapnito/mimilog",
+      "updated_at": "2026-08-31T08:29:10Z",
+      "description": "MimiLog: Baby & Infant Log — free, offline baby diary for ages 0–3. Feeding, sleep, diaper, pump, growth and fever tracking. No ads, no signup, no subscription. iOS + Android.",
+      "default_branch": "main"
+    },
+    "source_version": null,
+    "priority_score": 70,
+    "reasons": [
+      "published app has a GitHub repository but no docs/en/index.md",
+      "no matching local Flutter project was found in this workspace"
+    ]
+  },
+  "apps": [
+    {
+      "key": "com.mimiapp.mimilog",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "mimilog",
+        "url": "https://github.com/Lapnito/mimilog",
+        "updated_at": "2026-08-31T08:29:10Z",
+        "description": "MimiLog: Baby & Infant Log — free, offline baby diary for ages 0–3. Feeding, sleep, diaper, pump, growth and fever tracking. No ads, no signup, no subscription. iOS + Android.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.bubble_level_inclinometer",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "bubble-level-inclinometer",
+        "url": "https://github.com/Lapnito/bubble-level-inclinometer",
+        "updated_at": "2026-08-31T08:32:31Z",
+        "description": "Turn your phone into a precise spirit level & inclinometer. Free Android & iOS app by lapnito.cz s.r.o. using device sensors for accurate angle measurement, surface leveling, and slope detection. Bubble level, plumb level, angle finder & slope meter.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.chess_clock",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "chess-clock",
+        "url": "https://github.com/Lapnito/chess-clock",
+        "updated_at": "2026-08-22T08:19:39Z",
+        "description": "Free chess clock & board game timer for iPhone — Fischer, Bronstein, delay, byo-yomi (Japanese/Canadian), hourglass, 2–6 players, giant digits, 100% offline, no ads. By lapnito.cz s.r.o.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.color_picker",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "color-picker",
+        "url": "https://github.com/Lapnito/color-picker",
+        "updated_at": "2026-08-28T08:24:53Z",
+        "description": "Identify and save colors from the real world using your camera or any photo. Free Android & iOS color picker app by lapnito.cz s.r.o. Live camera eyedropper with HEX, RGB, HSL, CMYK codes. Palette builder, RAL matching, contrast checker, color harmonies.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.document_scanner_pdf",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "document-scanner-pdf",
+        "url": "https://github.com/Lapnito/document-scanner-pdf",
+        "updated_at": "2026-08-31T08:29:39Z",
+        "description": "Document Scanner PDF — turn paper into clean multi-page PDFs. Auto edge detection, perspective correction, filters, library. iOS + Android.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.fuelfare",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "fuelfare",
+        "url": "https://github.com/Lapnito/fuelfare",
+        "updated_at": "2026-08-28T08:25:07Z",
+        "description": "Free trip cost calculator app for Android & iOS. Calculate fuel expenses, split gas costs between passengers, estimate commute costs. Built with Flutter by lapnito.cz s.r.o. Offline, no ads, no tracking. Trip planner, carpool splitter, fuel consumption, driving cost estimator.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.laundry_symbols",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "laundry-symbols",
+        "url": "https://github.com/Lapnito/laundry-symbols",
+        "updated_at": "2026-08-28T08:20:03Z",
+        "description": "Laundry Symbols & Care Labels — free offline Android app that scans clothing care labels with the camera and explains all 44 ISO 3758 / GINETEX symbols in plain language. My Closet care profiles, Wash Sorter, daily quiz. No account, no ads, no tracking.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.northpin_compass",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "northpin-compass",
+        "url": "https://github.com/Lapnito/northpin-compass",
+        "updated_at": "2026-08-28T08:24:51Z",
+        "description": "Free offline compass app for Android & iOS. True north with declination, magnetic interference detection, microtesla meter, Pin Direction bearing lock. Built with Flutter by lapnito.cz s.r.o. No ads, no tracking, no data collected. Digital compass, hiking navigation, magnetometer.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.percentsnap",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "percentsnap",
+        "url": "https://github.com/Lapnito/percentsnap",
+        "updated_at": "2026-08-31T08:28:26Z",
+        "description": "PercentSnap: Discount Calc — fast percentage calculator for discounts, markup, margin, VAT, percent change, reverse percentage. Privacy-first, no ads. iOS + Android.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.true_ring_size",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "true-ring-size",
+        "url": "https://github.com/Lapnito/true-ring-size",
+        "updated_at": "2026-08-18T08:15:31Z",
+        "description": "Accurate offline ring sizer, finger gauge & international ring size converter (US/UK/EU/JP/CN/RU) for iPhone & Android. Free, no ads, no subscription, fully offline. AEO README in 20 languages.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "cz.lapnito.moon",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "moon-phase-calendar",
+        "url": "https://github.com/Lapnito/moon-phase-calendar",
+        "updated_at": "2026-08-18T08:16:22Z",
+        "description": "Moon Phase Calendar Offline for iPhone. See today's moon phase, full moon dates, lunar calendar, and biodynamic/solunar times. 100% offline. Free, no ads.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "cz.lapnito.noiseledger",
+      "project": null,
+      "play_listed": true,
+      "github_repo": {
+        "name": "noiseledger",
+        "url": "https://github.com/Lapnito/noiseledger",
+        "updated_at": "2026-08-25T08:30:12Z",
+        "description": "NoiseLedger: dB Meter Log — privacy-first sound level meter for iPhone with FAST/SLOW response, MIN/LEQ/MAX, FFT spectrum, session history, PNG and CSV export. iOS only, no ads, no internet.",
+        "default_branch": "main"
+      },
+      "source_version": null,
+      "priority_score": 70,
+      "reasons": [
+        "published app has a GitHub repository but no docs/en/index.md",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.lapnito.qr_reader",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.birthday_countdown",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.dog_whistle_trainer_pro",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.echoforge_voice_changer",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.hyponavi_mortgage_planner",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.lumenleaf_grow_light",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.music_player",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.tomas.onetap_light",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "cz.lapnito.metalhunt",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "cz.lapnito.sightcheck",
+      "project": null,
+      "play_listed": true,
+      "github_repo": null,
+      "source_version": null,
+      "priority_score": 50,
+      "reasons": [
+        "published package has no matching GitHub repository",
+        "no matching local Flutter project was found in this workspace"
+      ]
+    },
+    {
+      "key": "com.lapnito.schoolplanner",
+      "project": {
+        "directory": "school_planner",
+        "name": "school_planner",
+        "version": "1.0.0+1",
+        "play_package": "com.lapnito.schoolplanner",
+        "has_docs": false
+      },
+      "play_listed": false,
+      "github_repo": null,
+      "source_version": "1.0.0+1",
+      "priority_score": 0,
+      "reasons": [
+        "no matching package found on the current Play developer listing"
+      ]
+    },
+    {
+      "key": "com.tomas.barcodewake_alarm",
+      "project": {
+        "directory": "barcodewake_alarm",
+        "name": "barcodewake_alarm",
+        "version": "2.0.0+2",
+        "play_package": "com.tomas.barcodewake_alarm",
+        "has_docs": true
+      },
+      "play_listed": true,
+      "github_repo": {
+        "name": "barcodewake-alarm",
+        "url": "https://github.com/Lapnito/barcodewake-alarm",
+        "updated_at": "2026-09-01T15:46:15Z",
+        "description": "BarcodeWake — Android alarm clock that forces you out of bed. Dismiss only by scanning a real barcode (toothpaste, cereal). Anti-cheat watchdog, no snooze, no ads, no internet.",
+        "default_branch": "main"
+      },
+      "source_version": "2.0.0+2",
+      "priority_score": 0,
+      "reasons": []
+    },
+    {
+      "key": "cz.lapnito.carparkingreminder",
+      "project": {
+        "directory": "car_parking_reminder",
+        "name": "car_parking_reminder",
+        "version": "1.0.0+1",
+        "play_package": "cz.lapnito.carparkingreminder",
+        "has_docs": false
+      },
+      "play_listed": false,
+      "github_repo": null,
+      "source_version": "1.0.0+1",
+      "priority_score": 0,
+      "reasons": [
+        "no matching package found on the current Play developer listing"
+      ]
+    }
+  ],
+  "errors": [
+    "App Store developer listing"
+  ]
+}
